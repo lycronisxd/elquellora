@@ -5,8 +5,8 @@
   <img alt="el que llora." width="600">
 </picture><br \>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
+  <source media="(prefers-color-scheme: dark)" srcset="images/author_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/author_black.png">
   <img alt="by andrei acatalinei" width="400">
 </picture>
 <br \>
