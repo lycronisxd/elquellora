@@ -67,6 +67,21 @@ but finally thought of a design that would look cool in practice, so here we are
 
 <h3 align="left">bill of materials</h3>
 
+|item no.|part no.|part name                 |qty.|supplier    |unit cost|total cost|notes                                            |
+|--------|--------|--------------------------|----|------------|---------|----------|-------------------------------------------------|
+|1       |PCB-001 |elquellora pcb            |5   |jlcpcb      | $0.40   | $7.19    |$2 for 5 pcbs + $5.12 for shipping               |
+|2       |PCB-002 |seeed studio xiao rp2040  |1   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|3       |PCB-003 |1n4148 diodes             |4   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|4       |PCB-004 |0.91 inch oled            |1   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|5       |PCB-005 |ec11 rotary encoders      |2   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|6       |PCB-006 |sk6812 mini-e leds        |6   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|7       |PCB-007 |mx style switches         |4   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|8       |3D-001  |m3x5mmx4mm heatset inserts|4   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|9       |3D-002  |m3x16mm screws            |4   |hack club   |N/A      |N/A       |provided in hackpad kit                          |
+|10      |3D-003  |3d printed case           |1   |print legion|?        |?         |will update when receiving a quote from a printer|
+|11      |3D-004  |3d printed encoder knobs  |2   |print legion|?        |?         |will update when receiving a quote from a printer|
+
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/589e7913-b703-425e-8964-ac601ed77abf" />
 <hr>
 
 <h3 align="left">my other stuff</h3>
