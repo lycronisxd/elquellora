@@ -3,13 +3,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="images/elquellora_title_white.png">
   <source media="(prefers-color-scheme: light)" srcset="images/elquellora_title_black.png">
   <img alt="el que llora." width="600">
-</picture>
-<br \>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="placeholder">
-  <source media="(prefers-color-scheme: light)" srcset="placeholder">
-  <img alt="by andrei acatalinei" width="300">
 </picture><br \>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <source media="(prefers-color-scheme: light)" srcset="">
+  <img alt="by andrei acatalinei" width="400">
+</picture>
 <br \>
 a lil hackpad based off the design of ulquiorra from bleach!<br \>
 designed for stardance, hack club.<br \>
