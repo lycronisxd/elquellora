@@ -51,7 +51,7 @@
 
 <h3>flashing the firmware</h3>
 <ol>
-<li>download the firmware from the github repo.</li>
+<li><a href="firmware/">download the firmware</a> from the github repo.</li>
 <br \>
 <li>hold the boot button on the <b>seeed studio xiao rp2040 and plug in a usb-c whilst still holding the button.</b></li>
 <li>release the button when the device is recognised.</li>
