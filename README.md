@@ -24,12 +24,12 @@ designed for stardance, hack club.<br \>
 
 </div>
 <hr>
-<h3 align="left">get started</h3>
+<h3 align="left">get started.</h3>
 <h4 align="left">
 <a href="instructions.md">click here</a> to go to the instructions on how to get started!
 </h4>
 <hr>
-<h3 align="left">about the board</h3>
+<h3 align="left">about the board.</h3>
 <h4 align="left">
 el que llora is a 4 key hackpad with pcb art made by me,<br \>
 designed with inspiration and quotes from<br \>
@@ -42,7 +42,7 @@ but finally thought of a design that would look cool in practice, so here we are
 
 <hr>
 
-<h3 align="left">features of the board</h3>
+<h3 align="left">features of the board.</h3>
 <h4 align="left">
 <ul>
 <li>xiao rp2040 based</li>
@@ -57,7 +57,7 @@ but finally thought of a design that would look cool in practice, so here we are
 
 <hr>
 
-<h3 align="left">design images</h3>
+<h3 align="left">design images.</h3>
 <h4 align="center">
 <img height="1080" alt="image" src="images/render1.png" /><br \>
 <img height="1080" alt="image" src="images/render2.png" /><br \>
@@ -70,7 +70,7 @@ but finally thought of a design that would look cool in practice, so here we are
 
 <hr>
 
-<h3 align="left">bill of materials</h3>
+<h3 align="left">bill of materials.</h3>
 
 |item no.|part no.|part name                 |qty.|supplier    |unit cost|total cost|notes                                            |
 |--------|--------|--------------------------|----|------------|---------|----------|-------------------------------------------------|
@@ -89,7 +89,7 @@ but finally thought of a design that would look cool in practice, so here we are
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/589e7913-b703-425e-8964-ac601ed77abf" />
 <hr>
 
-<h3 align="left">my other stuff</h3>
+<h3 align="left">my other stuff.</h3>
 <h4 align="left">
 a custom rp2040 dev board, <a href="https://github.com/lycronisxd/peroxide">peroxide</a><br \>
 <br \>
