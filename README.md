@@ -1,9 +1,9 @@
 <h3 align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="placeholder">
-  <source media="(prefers-color-scheme: light)" srcset="placeholder">
-  <img alt="el que llora." width="300">
-</picture><br \>
+  <source media="(prefers-color-scheme: dark)" srcset="images/elquellora_title_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="images/elquellora_title_black.png">
+  <img alt="el que llora." width="600">
+</picture>
 <br \>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="placeholder">
@@ -55,6 +55,11 @@ but finally thought of a design that would look cool in practice, so here we are
 
 <h3 align="left">design images</h3>
 <h4 align="center">
+<img height="1080" alt="image" src="images/render1.png" /><br \>
+<img height="1080" alt="image" src="images/render2.png" /><br \>
+<img height="1080" alt="image" src="images/render3.png"/><br \>
+<img height="1080" alt="image" src="images/render4.png" /><br \>
+<img height="1080" alt="image" src="images/render5.png" /><br \>
 <img height="1080" alt="image" src="https://github.com/user-attachments/assets/08404d29-ac1c-496d-a5e4-791fe2dd9f5f" /><br \>
 <img height="1080" alt="image" src="https://github.com/user-attachments/assets/362a54ef-3cda-4cbe-9d96-b5aad8ebbe5d" />
 </h4>
