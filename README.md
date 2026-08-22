@@ -24,6 +24,11 @@ designed for stardance, hack club.<br \>
 
 </div>
 <hr>
+<h3 align="left">get started</h3>
+<h4 align="left">
+<a href="instructions.md">click here</a> to go to the instructions on how to get started!
+</h4>
+<hr>
 <h3 align="left">about the board</h3>
 <h4 align="left">
 el que llora is a 4 key hackpad with pcb art made by me,<br \>
